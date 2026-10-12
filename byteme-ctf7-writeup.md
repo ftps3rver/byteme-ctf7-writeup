@@ -1,6 +1,6 @@
 # BYTEME CTF 2026 (CTF7) — Soul Stone Series: Unified Writeup
 
-**Solved by:** z0d1ak
+**Solved by:** ftps3rver
 **Event:** BYTEME CTF 2026 / CTF7 (OWASP student chapter) — "Soul Stone / Vormir" themed set
 **Flag format:** `OWASP{...}`
 **Scope of this document:** 15 challenges across pwn, reversing, AI/prompt-injection, web, mobile, forensics/stego, and OSINT — each with reconnaissance, the key insight, a reproducible solve, and the validation status of its flag.
